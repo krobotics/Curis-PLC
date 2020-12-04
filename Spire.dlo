@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DockingPaneLayouts CompactMode="1">
+	<DSP_PANE_SECTION>
+		<Summary Panes="18" TopContainer="7" Client="12"/>
+		<Pane-1 Type="0" DockingCX="255" DockingCY="200" Title="Project Browser\n\n" ID="6852" DockingHolder="9" LastHolder="9"/>
+		<Pane-2 Type="0" DockingCX="275" DockingCY="286" Title="Launchpad\n\n" ID="6855" DockingHolder="9" LastHolder="9"/>
+		<Pane-3 Type="0" DockingCX="240" DockingCY="286" Title="Instruction Toolbox\n\n" ID="4381" DockingHolder="14" LastHolder="14"/>
+		<Pane-4 Type="0" DockingCX="360" DockingCY="286" Title="Data5\n\n" ID="6857" DockingHolder="10" LastHolder="10"/>
+		<Pane-5 Type="0" DockingCX="625" DockingCY="350" Title="Memory View [V0-V4095  -  UWORD]\n\n" ID="7058" DockingHolder="15" FloatingHolder="18" LastHolder="15"/>
+		<Pane-6 Type="0" DockingCX="360" DockingCY="286" Title="Cross Reference View\n\n" ID="6856" DockingHolder="13" LastHolder="13"/>
+		<Pane-7 Type="2" DockingCX="2142" Horiz="1" Panes="4" Pane-1="8" Pane-2="11" Pane-3="14" Pane-4="15"/>
+		<Pane-8 Type="2" DockingCX="255" DockingCY="200" Panes="2" Pane-1="9" Pane-2="10"/>
+		<Pane-9 Type="1" DockingCX="275" DockingCY="286" Panes="2" Selected="1" Pane-1="2" Pane-2="1"/>
+		<Pane-10 Type="1" DockingCX="360" DockingCY="286" Panes="1" Selected="4" Pane-1="4"/>
+		<Pane-11 Type="2" DockingCX="1010" Panes="2" Pane-1="12" Pane-2="13"/>
+		<Pane-12 Type="4" DockingCY="848"/>
+		<Pane-13 Type="1" DockingCX="360" DockingCY="286" Panes="1" Selected="6" Pane-1="6"/>
+		<Pane-14 Type="1" DockingCX="500" DockingCY="286" Panes="1" Selected="3" Pane-1="3"/>
+		<Pane-15 Type="1" DockingCX="365" DockingCY="350" Panes="1" Selected="5" Pane-1="5"/>
+		<Pane-16 Type="3" WindowRectTopPos="461" WindowRectBottomPos="811" WindowRectLeftPos="759" WindowRectRightPos="1061" TopContaner="17"/>
+		<Pane-17 Type="2" DockingCX="625" DockingCY="350" Horiz="1" Panes="1" Pane-1="18"/>
+		<Pane-18 Type="1" DockingCX="625" DockingCY="350" Panes="0"/>
+	</DSP_PANE_SECTION>
+</DockingPaneLayouts>
